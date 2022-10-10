@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Hi there 👋
+### I am Shivam - A passionate Devops Dev pursuing my Bachelors.
+### I ain't flexing my projects 😏
 <!--
 **ShivamThakkar1211/shivamThakkar1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
