@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamthakkar1211" alt="shivamthakkar1211" /></a> </p>
 
-- 🔭 I’m currently working on [V-profile Project](Local-host-project)
+- 🔭 I’m currently working on [AFP(Anonymous feedback platform)](Local-host-project)
 
-- 🌱 I’m currently learning **Docker,jenkins**
+- 🌱 I’m currently learning **Docker,jenkins,kubernates**
 
 - 👯 I’m looking to collaborate on **Finance Releated Project**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShivamThakkar1211](https://github.com/ShivamThakkar1211)
 
-- 💬 Ask me about **react,nextjs,nextauth,js,gsap,locomotive**
+- 💬 Ask me about **react,nextjs,nextauth,js,gsap,locomotive,DevOps**
 
 - 📫 How to reach me **shivamrsnr990@gmail.com**
 
